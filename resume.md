@@ -10,7 +10,7 @@ WhatsApp: +7 925 881 11 21
 ## Опыт работы
 
 ### Фронтенд-разработчик (React, Next)
-Компания "Онлайн Стриминг"
+Проект онлайн стриминга
 **Сентябрь 2024 – н.в.**
 
 **Занимаюсь следующими задачами:**
@@ -26,7 +26,7 @@ WhatsApp: +7 925 881 11 21
 - Фреймворки: React и Next.js
 - Языки: JavaScript ES6+ (деструктуризация, стрелочные функции, итераторы)
 - Верстка: знание CSS и Tailwind CSS, умение создавать адаптивный дизайн
-- Инструменты: Figma (примеры работ: [1](https://www.figma.com/design/YBLgXWvERUpQuQVwVmoPTa/Lumon?t=5QnAA7kUIiCpplNi-0), [2](https://www.figma.com/design/Lr3R3NUgnlpP35PO6iJrxm/Lumon-v2?t=5QnAA7kUIiCpplNi-0); GitLab для CI/CD
+- Инструменты: Figma (примеры работ: [1](https://www.figma.com/design/YBLgXWvERUpQuQVwVmoPTa/Lumon?t=5QnAA7kUIiCpplNi-0), [2](https://www.figma.com/design/Lr3R3NUgnlpP35PO6iJrxm/Lumon-v2?t=5QnAA7kUIiCpplNi-0)); GitLab для CI/CD
 
 ### Мягкие навыки
 - Межкультурное коммуницирование на трех языках.
