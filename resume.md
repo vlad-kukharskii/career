@@ -26,7 +26,7 @@ WhatsApp: +7 925 881 11 21
 - Фреймворки: React и Next.js
 - Языки: JavaScript ES6+ (деструктуризация, стрелочные функции, итераторы)
 - Верстка: знание CSS и Tailwind CSS, умение создавать адаптивный дизайн
-- Инструменты: Figma (примеры работ: (1)[https://www.figma.com/design/YBLgXWvERUpQuQVwVmoPTa/Lumon?t=5QnAA7kUIiCpplNi-0], (2)[https://www.figma.com/design/Lr3R3NUgnlpP35PO6iJrxm/Lumon-v2?t=5QnAA7kUIiCpplNi-0], GitLab для CI/CD
+- Инструменты: Figma (примеры работ: [1](https://www.figma.com/design/YBLgXWvERUpQuQVwVmoPTa/Lumon?t=5QnAA7kUIiCpplNi-0), [2](https://www.figma.com/design/Lr3R3NUgnlpP35PO6iJrxm/Lumon-v2?t=5QnAA7kUIiCpplNi-0), GitLab для CI/CD
 
 ### Мягкие навыки
 - Межкультурное коммуницирование на трех языках.
@@ -50,7 +50,7 @@ WhatsApp: +7 925 881 11 21
 
 ### CAD-инженер, Инженер-конструктор и CFD-инженер  
 **Октябрь 2021 – март 2024**  
-(TUM Hyperloop)[https://tumhyperloop.com/], Мюнхен
+[TUM Hyperloop](https://tumhyperloop.com/), Мюнхен
 
 ### Ассистент преподавателя  
 **Апрель 2023 – август 2023**  
