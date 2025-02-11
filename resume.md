@@ -1,7 +1,8 @@
 # Владислав Кухарский
 **Frontend Разработчик**  
 Email: [kuk.vladislav@gmail.com](mailto:kuk.vladislav@gmail.com)  
-WhatsApp: +7 925 881 11 21  
+WhatsApp: +7 925 881 11 21
+Telegram: [@vlad_kukharskii](https://t.me/vlad_kukharskii)
 Москва, Россия  
 
 ## О себе
